@@ -25,3 +25,5 @@ The setup for this game will require some hardware, and here's a list:
   (5) 20 male-to-male wires
   (6) Two piezo speakers - these are optional, as the sound output is only done when a player wins, and the choice of whether or
                            not to include sound in the game is left up to the developer.
+                           
+ ![alt text](https://raw.githubusercontent.com/Connor-Wilhoit/Pong/master/temp3.jpg)
